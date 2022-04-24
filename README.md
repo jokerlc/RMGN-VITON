@@ -5,10 +5,10 @@
 > **RMGN: A Regional Mask Guided Network for Parser-free Virtual Try-on**<br>
 > In IJCAI-ECAI 2022.
 
-> Paper: <br>
-> Supplementary Files: <br>
+[[Paper]]()
+[[Supplementary Material]](https://drive.google.com/file/d/1Io5VODelB3J8tXznATQQWlaKiR_xycg-/view?usp=sharing)
 
-> **Abstract:** *Virtual try-on (VTON) aims at fitting target clothesto reference person images, which is widelyadopted in e-commerce.Existing VTON ap-proaches can be narrowly categorized into Parser-Based (PB) and Parser-Free (PF) by whether rely-ing on the parser information to mask the persons’clothes and synthesize try-on images. Althoughabandoning parser information has improved theapplicability of PF methods, the ability of detailsynthesizing has also been sacrificed. As a re-sult, the distraction from original cloth may persistin synthesized images, especially in complicatedpostures and high resolution applications. To ad-dress the aforementioned issue, we propose a novelPF method named Regional Mask Guided Network(RMGN). More specifically, a regional mask is pro-posed to explicitly fuse the features of target clothesand reference persons so that the persisted distrac-tion can be eliminated. A posture awareness lossand a multi-level feature extractor are further pro-posed to handle the complicated postures and syn-thesize high resolution images. Extensive experi-ments demonstrate that our proposed RMGN out-performs both state-of-the-art PB and PF methods.Ablation studies further verify the effectiveness ofmodules in RMGN.*
+> **Abstract:** *Virtual try-on(VTON) aims at fitting target clothes to reference person images, which is widely adopted in e-commerce.Existing VTON approaches can be narrowly categorized into Parser-Based(PB) and Parser-Free(PF) by whether relying on the parser information to mask the persons' clothes and synthesize try-on images. Although abandoning parser information has improved the applicability of PF methods, the ability of detail synthesizing has also been sacrificed. As a result, the distraction from original cloth may persistin synthesized images, especially in complicated postures and high resolution applications. To address the aforementioned issue, we propose a novel PF method named Regional Mask Guided Network(RMGN). More specifically, a regional mask is proposed to explicitly fuse the features of target clothes and reference persons so that the persisted distraction can be eliminated. A posture awareness loss and a multi-level feature extractor are further proposed to handle the complicated postures and synthesize high resolution images. Extensive experiments demonstrate that our proposed RMGN outperforms both state-of-the-art PB and PF methods.Ablation studies further verify the effectiveness ofmodules in RMGN.*
 
 ## Installation
 
@@ -21,8 +21,8 @@ If you find this work useful for your research, please cite our paper:
 ```
 @inproceedings{lin2022viton,
   title={RMGN: A Regional Mask Guided Network for Parser-free Virtual Try-on},
-  author={},
-  booktitle={},
+  author={Lin, Chao and Li, Zhao and Zhou, Sheng and Hu, Shichang and Zhang, Jialun and Luo, Linhao and Zhang, Jiarun and Huang, Longtao and He, Yuan},
+  booktitle={IJCAI},
   year={2022}
 }
 ```
