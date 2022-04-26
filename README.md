@@ -3,7 +3,7 @@
 ![example image](./results/example.png)
 
 > **RMGN: A Regional Mask Guided Network for Parser-free Virtual Try-on**<br>
-> In IJCAI-ECAI 2022.
+> In IJCAI-ECAI 2022(short oral).
 
 >[[Paper]](http://arxiv.org/abs/2204.11258)
 >[[Supplementary Material]](https://drive.google.com/file/d/1Io5VODelB3J8tXznATQQWlaKiR_xycg-/view?usp=sharing)
