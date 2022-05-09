@@ -16,7 +16,7 @@ The code and usage examples will be updated soon. Please stay tuned.
 
 ## Test
 
-We achieves FID 9.93 on VITON test set (512x384) with the [[test_pairs.txt]](https://drive.google.com/file/d/15syEhwteKep_EBf7SWSIKGwKDEuw1AYC/view?usp=sharing). The test results is here[[test reults]](https://drive.google.com/file/d/15syEhwteKep_EBf7SWSIKGwKDEuw1AYC/view?usp=sharing)
+We achieves FID 9.93 on VITON test set (512x384) with the [[test_pairs.txt]](https://drive.google.com/file/d/15syEhwteKep_EBf7SWSIKGwKDEuw1AYC/view?usp=sharing). The test results is here[[test reults]](https://drive.google.com/file/d/1LIQihyE_VXQFEt0IEuw3_BOdlQaKs_9B/view?usp=sharing)
 
 ## Citation
 
