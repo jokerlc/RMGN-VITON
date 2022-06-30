@@ -1,6 +1,6 @@
 ## RMGN-VITON
 
-![example image](./results/example.png)
+![example image](./examples/example.png)
 
 > **RMGN: A Regional Mask Guided Network for Parser-free Virtual Try-on**<br>
 > In IJCAI-ECAI 2022(short oral).
