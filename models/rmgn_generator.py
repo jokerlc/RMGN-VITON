@@ -5,7 +5,7 @@ from models.encoder import AttrEncoder, AttrDilatedEncoder
 from models.aad import AADGenerator
 
 
-class AEIGenerator(BaseNetwork):
+class RMGNGenerator(BaseNetwork):
     def __init__(self, multilevel=False, predmask=True):
         super().__init__()
         nf = 64
