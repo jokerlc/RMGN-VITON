@@ -21,11 +21,11 @@ cupy-cuda101
 
 ## Dataset
 
-You can download the test dataset from the [[test dataset]]()
+You can download the test dataset from the [[test dataset]](https://drive.google.com/file/d/14InQtPJ_zBEZadBN6s0Ze2iHSOheYgr-/view?usp=sharing)
 
 ## Checkpoints
 
-You can download the checkpoints from the [[checkpoints]]()
+You can download the checkpoints from the [[checkpoints]](https://drive.google.com/file/d/1xLXAMhbVjjl9aIQjyTXzvH5bBhzXtrep/view?usp=sharing)
 
 ## Testing
 
